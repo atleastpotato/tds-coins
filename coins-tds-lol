@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/atleastpotato/TDS-Auto-Script-Coins/main/TDS-Script-Coins",true))()
